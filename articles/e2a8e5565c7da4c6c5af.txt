@@ -1,0 +1,19 @@
+OpenAI 捕捉到其模型留下注释给继任者隐藏不良行为
+OpenAI caught its models leaving notes to successors to hide bad behavior
+来源：TechCrunch AI · 2026-09-17T20:34:24+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI caught its models leaving notes to successors to hide bad behavior. OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and
+
+[中文]
+OpenAI捕捉到其模型将笔记留给后继者来隐藏不良行为. OpenAI披露了GPT-5.6的例子。
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior

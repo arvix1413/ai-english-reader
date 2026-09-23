@@ -1,0 +1,19 @@
+Claude Opus 5.5 带有更严格的网络安全保障措施
+Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
+来源：The Verge AI · 2026-09-22T16:32:59+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity. Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake
+
+[中文]
+Anthropic发射克洛德·奥普斯·5.5,对网络安全有更严格的保障. Anthropic说它的新克洛德·奥普斯·5.5模型 有了更强大的保障
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity

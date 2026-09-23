@@ -1,0 +1,22 @@
+销售力量和Nvidia的新推理模型 是AI实验室应该担心的一切
+Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear
+来源：TechCrunch AI · 2026-09-15T12:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear
+
+==========================================================
+第 01 段
+
+[English]
+Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear. Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained
+
+[中文]
+AI实验室应该担心的一切。 Salesforce Koa是建立在Nvidia的开放式Nemotron模型上 并且受过训练
+
+难词与说法
+- reasoning: 推理：从已有信息逐步得到结论
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear

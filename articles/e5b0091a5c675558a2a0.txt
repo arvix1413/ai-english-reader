@@ -1,0 +1,19 @@
+Anthropic 释放出价格和有线级性能较低的 Opus 5.5
+Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+来源：TechCrunch AI · 2026-09-22T16:30:07+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic releases Opus 5.5 with lower prices and Fable-level performance. Anthropic called it "the strongest-performing model we've tested to date."
+
+[中文]
+Anthropic发布Opus 5.5,价格和有线级性能较低. Anthropic称其为"我们迄今测试过的最强效模型".
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance

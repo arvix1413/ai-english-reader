@@ -1,0 +1,19 @@
+我们的报告模式不一致的框架
+Our framework for reporting model misalignment
+来源：OpenAI News · 2026-09-16T17:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/model-misalignment-reporting-framework
+
+==========================================================
+第 01 段
+
+[English]
+Our framework for reporting model misalignment. OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model
+
+[中文]
+我们报告模式不当的框架。 OpenAI 共享跟踪、调查和披露模式错配的框架,同时共享6起意外报告或关于模式的报告
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/model-misalignment-reporting-framework
