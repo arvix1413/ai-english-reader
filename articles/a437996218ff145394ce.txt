@@ -1,0 +1,19 @@
+模块为其语音模型和分析套件筹集了25M美元
+Modulate raises $25M for its voice models and analysis suite
+来源：TechCrunch AI · 2026-09-28T14:05:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite
+
+==========================================================
+第 01 段
+
+[English]
+Modulate raises $25M for its voice models and analysis suite. Modulate deploys its models to detect deepfake, fraud and scam
+
+[中文]
+模块为其语音模型和分析套件筹集了25M美元. 模拟其模型,以发现深层假象、欺诈和骗局
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite
