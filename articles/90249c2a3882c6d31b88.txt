@@ -1,0 +1,22 @@
+破坏协调一致的模式化消化运动
+Disrupting a coordinated model-distillation campaign
+来源：OpenAI News · 2026-09-30T10:30:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+
+==========================================================
+第 01 段
+
+[English]
+Disrupting a coordinated model-distillation campaign. Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.
+
+[中文]
+破坏协调的示范消化运动. 了解OpenAI如何破坏一项提取受保护模型推理的运动,并正在加强防御对抗蒸馏。
+
+难词与说法
+- reasoning: 推理：从已有信息逐步得到结论
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
