@@ -1,0 +1,19 @@
+Amazon 发布自己的 Jev 克隆作为决定模型淹入网络
+Amazon releases its own Jev clone as decision models flood the web
+来源：TechCrunch AI · 2026-10-01T16:49:22+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web
+
+==========================================================
+第 01 段
+
+[English]
+Amazon releases its own Jev clone as decision models flood the web. Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands
+
+[中文]
+Amazon发布自己的Jev克隆, Amazon Web Services的 Strand Labs 发布了最新的 Jevarike 决策模型 Strands
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web
