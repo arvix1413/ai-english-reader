@@ -1,0 +1,19 @@
+OpenAI的新决定 API看起来很像它给对手的Jev模型的答案
+OpenAI's new Decisions API looks a lot like its answer to a rival's Jev model
+来源：Startup Fortune · 2026-10-01T00:26:28+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjRSX25xd25ic19QWlB3aExHWWpweEZaeTZkVnhxam9QWVZFaXhrLXJQblNEcmROQU04WHYweHFsRzA2cVpYckJISGtXM0NSek5BLXcxM04zYWxXbGwxUmNBY3d4RlBsWUktWlI2WWFiWUpPOXB3V0tzNmhfbUZHRDkySkdZazJtRkZfOTB4YjdKSFFkSnFScDVFN3dDNlB5c0lsdVNn?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI's new Decisions API looks a lot like its answer to a rival's Jev model. OpenAI's new Decisions API looks a lot like its answer
+
+[中文]
+OpenAI的新决定API看起来与其对对手的Jev模型的答案很像. OpenAI的新决定API看起来很像它的答案
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPVjRSX25xd25ic19QWlB3aExHWWpweEZaeTZkVnhxam9QWVZFaXhrLXJQblNEcmROQU04WHYweHFsRzA2cVpYckJISGtXM0NSek5BLXcxM04zYWxXbGwxUmNBY3d4RlBsWUktWlI2WWFiWUpPOXB3V0tzNmhfbUZHRDkySkdZazJtRkZfOTB4YjdKSFFkSnFScDVFN3dDNlB5c0lsdVNn?oc=5
