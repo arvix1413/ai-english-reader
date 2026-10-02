@@ -1,0 +1,22 @@
+GPT-6家庭示范指南
+A model guide for the GPT-6 family
+来源：OpenAI News · 2026-10-02T16:15:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/practical-guide-building-gpt-6
+
+==========================================================
+第 01 段
+
+[English]
+A model guide for the GPT-6 family. Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare
+
+[中文]
+GPT-6家族示范指南. 学习初创企业如何选择GPT-6模式,调谐推理努力,提高提示和技能,协调工具,以及准备
+
+难词与说法
+- reasoning: 推理：从已有信息逐步得到结论
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/practical-guide-building-gpt-6
