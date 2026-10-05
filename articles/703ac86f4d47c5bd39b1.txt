@@ -1,0 +1,19 @@
+反射首发式Beam,一种以较低的计算成本与中国模型竞争的开放量AI模型
+Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
+来源：TechCrunch AI · 2026-10-05T19:33:53+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost
+
+==========================================================
+第 01 段
+
+[English]
+Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost. Reflection is aiming Beam and future models at enterprises and
+
+[中文]
+反射首发Beam(英語:Reflection debuts Beam),一种开放量的AI模型,以较低的计算成本与中国模型竞争. 反思的目标是Beam和未来企业模式,以及
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost
