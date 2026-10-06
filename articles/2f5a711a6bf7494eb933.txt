@@ -1,0 +1,22 @@
+Mistral的新1T模式旨在跳过封闭和开放的对手
+Mistral’s new 1T model aims to leapfrog closed and open rivals
+来源：TechCrunch AI · 2026-10-06T14:33:16+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals
+
+==========================================================
+第 01 段
+
+[English]
+Mistral’s new 1T model aims to leapfrog closed and open rivals. French AI lab Mistral AI has released Mistral Large 4, a new large multimodal
+
+[中文]
+米斯特尔的新1T模式旨在跳跃封闭和开放的对手. 法国AI实验室Mistral AI发布了Mistral Large 4,一种新的大型多式联运
+
+难词与说法
+- multimodal: 多模态的：同时处理文字、图像或声音等信息
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals
