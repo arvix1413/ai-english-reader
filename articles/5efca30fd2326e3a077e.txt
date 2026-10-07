@@ -1,0 +1,19 @@
+AI决定模式如何改变内容节制
+How AI decision models could change content moderation
+来源：TechCrunch AI · 2026-10-06T20:35:20+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation
+
+==========================================================
+第 01 段
+
+[English]
+How AI decision models could change content moderation. On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open
+
+[中文]
+AI决策模式如何改变内容节制. 穆苏比星期二宣布了一个为实时节制而制作的轻量级决定模型,名为PolicyLM-1.7B,公开发布
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation

@@ -1,0 +1,22 @@
+嵌入Gemma 2: 一个开放的轻量级多式联运嵌入模型
+EmbeddingGemma 2: an open, lightweight multimodal embedding model
+来源：Google DeepMind Blog · 2026-10-06T19:57:04+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model
+
+==========================================================
+第 01 段
+
+[English]
+EmbeddingGemma 2: an open, lightweight multimodal embedding model.
+
+[中文]
+嵌入Gemma2:一种开放,轻量级的多式联运嵌入模型.
+
+难词与说法
+- multimodal: 多模态的：同时处理文字、图像或声音等信息
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model
