@@ -1,0 +1,19 @@
+改变使用政策,禁止模式滥用和选举干预
+Anthropic changes usage policy to ban model abuse and election interference
+来源：TechCrunch AI · 2026-10-08T18:16:24+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic changes usage policy to ban model abuse and election interference. Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases,
+
+[中文]
+改变使用政策,禁止模式滥用和选举干涉。 Anthropic的最新使用政策明确禁止用户在极端情况下反复虐待克洛德,
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference
