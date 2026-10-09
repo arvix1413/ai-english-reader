@@ -1,0 +1,19 @@
+Asana 剪切模型在使用 GPT-6.1 的浏览器测试中成本为 76xSol
+Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
+来源：OpenAI News · 2026-10-09T07:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/asana-browser-agent
+
+==========================================================
+第 01 段
+
+[English]
+Asana cuts model costs 76x in browser tests with GPT-6.1 Sol. Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x
+
+[中文]
+Asana在使用GPT-6.1 Sol进行浏览器测试时削减模型成本为76x. Asana在Codex中使用了GPT-6 Astra,使其浏览器代理76x和5x更便宜.
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/asana-browser-agent

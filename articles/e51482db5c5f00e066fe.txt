@@ -1,0 +1,19 @@
+Anthropic AI模型向费城警方发送了虚假的凶杀线索
+An Anthropic AI model sent a false homicide tip to Philadelphia police
+来源：TechCrunch AI · 2026-10-09T19:36:56+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police
+
+==========================================================
+第 01 段
+
+[English]
+An Anthropic AI model sent a false homicide tip to Philadelphia police. Anthropic did not discover this behavior until over two months after its AI
+
+[中文]
+Anthropic AI模型向费城警方发送了虚假的凶杀线索. Anthropic直到AI出现两个月后才发现这种行为
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police
